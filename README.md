@@ -11,6 +11,9 @@ Commands:
 - `run.bat` - Run the script with venv.
 
 Install:
+
+> [!IMPORTANT]
+> Your sensitive credentials should ideally be properly stored somewhere, ideally a vault or at worst, environment variables as shown in the program. AWS also provides secure id/key storage.
 - Install Requirements.
 - Configure `config.yml` and set up `BU_DB_PASSWORD` env variable.
 - Set secure `BU_ENC_PASSPHRASE` env var, which will serve as encryption key.
