@@ -1,5 +1,5 @@
 # maria-backup-s3
-Barebones backup script for MariaDB with Discord Webhook notifications. Allows you to run a cron / task schedule of program to automatically backup, compress, encrypt and upload maria backup to Amazon S3.
+Barebones backup script for MariaDB with Discord Webhook notifications. Allows you to run a cron / task schedule of program to automatically backup, compress, encrypt and upload your database to Amazon S3.
 
 Requirements:
 - Python 3.10+
