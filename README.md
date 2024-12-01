@@ -8,7 +8,7 @@ Requirements:
 - OpenSSL CLI
 
 Commands:
-- `run.bat` - Run the script with venv.
+- `run.bat` - Run the script.
 
 Install:
 
@@ -22,7 +22,8 @@ Install:
 - `python -m venv venv`
 - `call venv\Scripts\activate.bat`
 - `pip install -r requirements.txt`
-- `Run run.bat`
+- Configure `run.bat`
+- Run / apply `run.bat` on a schedule / manual basis
 
 # How to restore
 - Download `.xb.gz.enc` file from S3 and put in folder
