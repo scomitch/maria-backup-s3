@@ -1,0 +1,13 @@
+    # If used on multiple hosts, this should be changed to the hostname of the host that is running the script
+    server_name: "Friendly Hostname"
+
+    # Discord webhook URL
+    discord_webhook_url: "https://discord.com/api/webhooks/..."
+
+    # Database credentials
+    db_user: "user"
+    db_name: "database"
+    db_host: "localhost"
+
+    # S3 bucket name
+    s3_bucket_name: "bucket-name"
